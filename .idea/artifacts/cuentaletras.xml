@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cuentaletras">
+    <output-path>$PROJECT_DIR$/out/artifacts/cuentaletras</output-path>
+    <root id="archive" name="cuentaletras.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/Manifest/Cuentaletras/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="pspejercicios" />
+    </root>
+  </artifact>
+</component>
